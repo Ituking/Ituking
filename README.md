@@ -5,4 +5,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ituking)](https://github.com/anuraghazra/github-readme-stats) [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ituking&layout=compact&theme=tokyonight)](https://github.com/Ituking/)
 
-https://img.shields.io/badge/${subject}-${Fluter}-${skyblue}.svg
+https://img.shields.io/badge/${#02569B}-${flutter}-${skyblue}.svg
