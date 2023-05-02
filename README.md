@@ -4,3 +4,5 @@
 📮 How to Reach me: Blog [itsuking.net] or Twitter [@Jedda67019847]  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ituking)](https://github.com/anuraghazra/github-readme-stats) [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ituking&layout=compact&theme=tokyonight)](https://github.com/Ituking/)
+
+https://img.shields.io/badge/-flutter-#02569B.svg?logo=flutter&style=flat
