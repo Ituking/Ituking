@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: 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
           USERNAME: Ituking
       - name: Commit & Push
         run: |
