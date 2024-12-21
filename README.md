@@ -1,5 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ituking&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://your-vercel-app.vercel.app/api?username=Ituking&count_private=true&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ituking&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://your-vercel-app.vercel.app/api/top-langs/?username=Ituking&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
