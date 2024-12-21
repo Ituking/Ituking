@@ -22,3 +22,23 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+
+  update-stats:
+    runs-on: ubuntu-latest
+    name: Update GitHub Readme Stats
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run script
+        env:
+          ITUKING_GITHUB_README_STATS_TOKEN: ${{ secrets.ITUKING_GITHUB_README_STATS_TOKEN }}
+        run: node your-script.js
