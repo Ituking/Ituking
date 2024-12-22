@@ -8,6 +8,23 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 
 ---
 
+## 💻 My Skills
+
+<div align="center">
+
+### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,&perline=5)](https://skillicons.dev)
+
+### Tools & Platforms
+[![My Tools](https://skillicons.dev/icons?i=firebase,git,github,vscode,postman&perline=5)](https://skillicons.dev)
+
+### Others
+[![My Others](https://skillicons.dev/icons?i=linux,powershell,figma&perline=4)](https://skillicons.dev)
+
+</div>
+
+---
+
 ## 🔥 Stats and Languages
 
 [![Anurag's GitHub stats](https://github-readme-stats-ituking-git-master-itukings-projects.vercel.app/api?username=Ituking&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
