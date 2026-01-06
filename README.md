@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🌟 Welcome to My GitHub Profile! 🌟
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Ituking&fontSize=52&fontAlignY=35)
+
 
 ![](https://komarev.com/ghpvc/?username=Ituking&label=PROFILE+VIEWS&color=brightgreen)
 
