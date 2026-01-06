@@ -31,7 +31,20 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 
 ## 🔥 Stats and Languages
 
-![](https://raw.githubusercontent.com/Ituking/Ituking/main/profile-3d-contrib/profile-green-animate.svg)
+<table>
+  <tr>
+    <td width="52%">
+      <img alt="3D Contributions" src="https://raw.githubusercontent.com/Ituking/Ituking/main/profile-3d-contrib/profile-green-animate.svg" />
+    </td>
+    <td width="48%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ituking/Ituking/main/img/snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ituking/Ituking/main/img/snake.svg" />
+        <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ituking/Ituking/main/img/snake.svg" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
