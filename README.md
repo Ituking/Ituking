@@ -38,9 +38,9 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
     </td>
     <td width="48%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ituking/Ituking/main/img/snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ituking/Ituking/main/img/snake.svg" />
-        <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ituking/Ituking/main/img/snake.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ituking/Ituking/output/img/snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ituking/Ituking/output/img/snake.svg" />
+        <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ituking/Ituking/output/img/snake.svg" />
       </picture>
     </td>
   </tr>
