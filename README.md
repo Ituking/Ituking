@@ -1,6 +1,12 @@
+<a id="top"></a>
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Ituking&fontSize=52&fontAlignY=35)
+### Hello👋
+I’m a Japanese independent developer working on mobile applications.  
+Nice to meet you, and thanks for visiting my profile.
+
+<br />
 
 </div>
 
@@ -8,30 +14,15 @@
 
 ---
 
-## 💻 Skills
+<a id="skills"></a>
+## Some Tools I Use
 
-<div align="center">
-
-**Languages & Frameworks**  
-[![Languages](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
-
-<br />
-
-**Tools & Platforms**  
-[![Tools](https://skillicons.dev/icons?i=firebase,git,github,vscode,postman)](https://skillicons.dev)
-
-<br />
-
-**Others**  
-[![Others](https://skillicons.dev/icons?i=linux,powershell,figma)](https://skillicons.dev)
-
-</div>
-
-<br />
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,vscode,postman,linux,powershell,figma&perline=20" />
 
 ---
 
-## 🔥 Activity
+<a id="activity"></a>
+## Activity
 
 <div align="center">
 
@@ -41,5 +32,3 @@
 />
 
 </div>
-
-<br />
