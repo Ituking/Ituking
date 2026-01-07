@@ -1,16 +1,11 @@
 <a id="top"></a>
 
-<div align="center">
+## Hello 👋 I'm Ituking
 
-### Hello👋
+---
+
 I’m a Japanese independent developer working on mobile applications.  
 Nice to meet you, and thanks for visiting my profile.
-
-<br />
-
-</div>
-
-<br />
 
 ---
 
