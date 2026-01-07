@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Ituking&fontSize=52&fontAlignY=35)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ituking&label=PROFILE+VIEWS&color=blueviolet)
-
 </div>
 
 <br />
