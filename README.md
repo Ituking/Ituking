@@ -4,12 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ituking&label=PROFILE+VIEWS&color=blueviolet)
 
-### 👋 Hi, I'm **Ituking**
-**Flutter / Firebase Developer**
-
-I love building applications,  
-exploring new technologies, and solving problems creatively 🚀
-
 </div>
 
 <br />
