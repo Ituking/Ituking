@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-## Hello 👋 I'm Ituking
+## Hello 👋 I'm Itsuking
 
 ---
 
